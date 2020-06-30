@@ -1,0 +1,47 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "sabor": "portuguesa",
+      "recheio": {
+        "recheio1": "queijo",
+        "recheio2": "presunto",
+        "recheio3": "cebola"
+      },
+      "price": 10
+    },
+    {
+      "id": 2,
+      "sabor": "napolitana",
+      "recheio": {
+        "recheio1": "queijo",
+        "recheio2": "tomate"
+      },
+      "preco": 10
+    },
+    {
+      "id": 3
+    },
+    {
+      "sabor": "marguerita",
+      "recheio": "provolone",
+      "price": "22",
+      "id": 4
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "coca cola",
+      "preco": 1
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "name": "jose da silva",
+      "endereco": "typicode",
+      "telefone": "typicode"
+    }
+  ]
+}

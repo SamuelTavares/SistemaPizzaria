@@ -1,0 +1,53 @@
+Sistema Pizzaria - Modelo de dados
+
+
+cadastro de cliente
+cadastro de pizza
+cadastro de outros produtos
+pedidos
+
+
+
+
+modelo de dados
+
+pizza
+    {
+        "id": 7
+        "sabor": "",
+        "recheio": 
+            {
+                "recheio1": "teste inclusão",
+                "recheio2": null,
+                "recheio3": 7
+            }
+        "price": 10.00,
+    }
+
+cliente
+    {
+        "id": 7,
+        "nome": "",
+        "endereço": "",
+        "telefone": "",
+    }
+
+produtos
+    {
+        "id": 4,
+        "descrição":"",
+        "tipo":"",
+        "valor": 10
+    }
+
+pedidos
+    {
+        "id": ,
+        "itens": {
+            "": ,
+            "tipo": "",
+            "quantidade": ,
+            "valor": 
+        },
+        "": "",
+    }
